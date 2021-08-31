@@ -1,0 +1,37 @@
+body{
+    background-color: #25282e;
+    color: white;
+    font-family: Arial;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial;
+    padding-top: 20%;
+    
+}
+
+.email{
+    min-width: 300px;
+    max-width: 30%;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
+.password{
+    min-width: 300px;
+    max-width: 30%;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+
+.loginButton{
+    min-width: 150px;
+    max-width: 20%;
+    font-size: larger;
+    
+}

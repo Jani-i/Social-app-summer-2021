@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    background-color: #383d46;
+    font-family: Arial;
+    height: 50px;
+}

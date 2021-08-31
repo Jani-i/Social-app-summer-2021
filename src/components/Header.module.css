@@ -1,0 +1,10 @@
+.containerr {
+    border: 3px solid black;
+    border-top: none;
+    width: 100vw;
+    height: 50px;
+    background-color: rgb(56, 56, 56);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}

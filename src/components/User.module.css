@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    background-color: #383d46;
+    border: 3px solid black;
+    border-top: none;
+    border-left: none;
+    height: 50px;
+    width: 100%;
+    z-index: +1;
+}
+
+.piccontainer {
+display: flex;
+height: 50px;
+width: 50px;
+
+}
+
+.namecontainer {
+display: flex;
+flex-wrap: wrap;
+align-content: center;
+width: 100%;
+height: 50px;
+
+}

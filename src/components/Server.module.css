@@ -1,0 +1,105 @@
+.container {
+    position: fixed;
+    left: 20.3%;
+    top: 0%;
+    width: 80%;
+}
+
+.servernamebuttoncontainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    border-bottom: 3px solid #020202;
+}
+
+.servernamecontainer {
+    font-size: x-large;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    max-width: 50%;
+    min-width: 20%;
+    height: 50px;
+    padding-left: 10px;
+    
+}
+
+.arraycontainer {
+    overflow-y: auto;
+    height: 80vh
+}
+
+.arraycontainer::-webkit-scrollbar {
+    display: none;
+}
+
+.message{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sendertimecontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.sender{
+    font-size: larger;
+    padding-left: 5px;
+}
+
+.time {
+    font-size: small;
+    color: grey;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+.messagetext {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 5px;
+    padding-top: 3px;
+    font-size: medium;
+    
+}
+
+.textboxbuttoncontainer{
+    margin-top: 10px;
+    max-width: 100%;
+    
+}
+
+.textbox {
+    height: 35px;
+    min-width: 84%;
+    max-width: 100%;
+    font-size: medium;
+    background-color: rgb(88, 87, 87);
+    color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 2px solid rgb(88, 87, 87);
+    outline: none;
+    margin-left: 10px;
+}
+
+.sendbutton {
+    height: 40px;
+    width: 13%;
+    font-size: large;
+    background-color: rgb(141, 139, 139);
+    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 2px solid rgb(88, 87, 87);
+    color: black;
+    background-color: white;
+}
+
+
