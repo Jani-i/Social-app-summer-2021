@@ -1,3 +1,25 @@
+# Project description
+
+This is a social app which gets most of its inspiration for looks and functions from Discord. 
+
+The app itself was built using React.
+
+Database used in the project was Firebase.
+
+## Notes!
+
+Most of the app's functions do not work because the used database has been taken down.
+
+# Installation 
+
+## Requirements
+
+Nodejs is required to run this app.
+
+Nodejs can be installed from https://nodejs.org/en/ \
+Preferred version is LTS 16.13.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
